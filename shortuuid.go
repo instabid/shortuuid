@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"strings"
 
-	uuid "github.com/satori/go.uuid"
+	uuid "github.com/instabid/go.uuid"
 )
 
 // UUID returns a new UUID v4.
